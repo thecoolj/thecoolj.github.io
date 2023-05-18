@@ -1,7 +1,11 @@
-! Title: testing 
-! Version: 1
+[Adblock Plus 2.0]
+! Version: 20230517
+! Title: testing list
+! Last modified: 17 May 2023
+! 
 
-securly.com/blocked/*
-securly.com/*
-blocked/*
+||securly.com/blocked/*
+||securly.com/*
+||blocked/*
 
+||blockingdarlingshrivel.com^
