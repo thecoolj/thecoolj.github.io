@@ -1,0 +1,7 @@
+! Title: testing 
+! Version: 1
+
+securly.com/blocked/*
+securly.com/*
+blocked/*
+
